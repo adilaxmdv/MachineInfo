@@ -6,9 +6,5 @@ chmod +x pc_info.py
 python3 pc_info.py
 and Seem Your Info :)
 
-
-
-
-
-
+Bitcoin Wallet Adress: 14zutrQJBDcPwEKNhLU2cDmcRngahmhzbn
 www.instagram.com/morpho.php
