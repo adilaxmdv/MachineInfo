@@ -3,10 +3,10 @@
 '''
 InfoGathering help your seem your machine info:)
 '''
-__copyright__ ="Copyright 2020, Morpho-BadUsb | YourMachineInfoGathering Tool"
-__version__   ="1" 
+__copyright__ ="Copyright 2021, Morpho-BadUsb | YourMachineInfoGathering Tool"
+__version__   ="1.0" 
 __codename__  = "Morpho"
-__status__    ="Development" 
+__status__    ="Junior Developer" 
 
 
 import os
