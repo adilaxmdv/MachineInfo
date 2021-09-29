@@ -3,9 +3,9 @@
 '''
 InfoGathering help your seem your machine info:)
 '''
-__copyright__ ="Copyright 2021, Morpho-BadUsb | YourMachineInfoGathering Tool"
+__copyright__ ="Copyright 2021, adilaxmdv | YourMachineInfoGathering Tool"
 __version__   ="1.0" 
-__codename__  = "Morpho"
+__codename__  = "adilaxmdv"
 __status__    ="Junior Developer" 
 
 
