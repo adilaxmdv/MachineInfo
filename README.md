@@ -1,7 +1,7 @@
-HELLO @USER
+**HELLO 
 THIS PYTHON FILE HELP YOU FOUND YOUR PC OS , OS VERSION AND etc.
 
-INSTALLATION:
+**INSTALLATION:
 chmod +x pc_info.py
 python3 pc_info.py
 and Seem Your Info :)
