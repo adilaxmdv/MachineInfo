@@ -9,4 +9,3 @@ THIS PYTHON FILE HELP YOU FOUND YOUR PC OS , OS VERSION AND etc.**
 <p></p>
 <b>and Seem Your Info :)</b>
 
-<a href="www.instagram.com/adilaxmdv">Instagram</a>
